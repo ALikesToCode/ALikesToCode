@@ -1,3 +1,4 @@
+
 Hi I am Abhyudaya B Tharakan, 
 
 Hello, I'm Abhyudaya B Tharakan, the CEO and Team Leader at Lyfline. I specialize in AI and Software Engineering. I'm particularly passionate about leveraging cutting-edge technologies to solve real-world problems, especially in the healthcare sector.
@@ -25,5 +26,14 @@ Lyfline aims to revolutionize this landscape by introducing AI-powered software 
 7. **Continuous Improvement**: We're committed to evolving our solutions based on feedback and the latest advancements in healthcare technology.
 
 By addressing these critical areas, Lyfline aims to enhance patient care, improve treatment outcomes, and ultimately, save lives. Thank you for your interest in Lyfline, where we believe that technology can make healthcare better for everyone.
-<iframe width="1920" height="960" src="https://www.youtube.com/embed/toX4TJbgJLE" title="Overview of Lyfline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+More details can be found here. 
+
+# Video of Overview of lyfline
+
+[![Overview of Lyfline](https://img.youtube.com/vi/toX4TJbgJLE/0.jpg)](https://www.youtube.com/embed/toX4TJbgJLE)
+
+
 [![ALikesToCode's GitHub | Dependencies](https://stats.quine.sh/ALikesToCode/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ALikesToCode)
+
+
