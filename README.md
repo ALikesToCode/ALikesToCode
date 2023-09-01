@@ -34,6 +34,4 @@ More details can be found here.
 [![Overview of Lyfline](https://img.youtube.com/vi/toX4TJbgJLE/0.jpg)](https://www.youtube.com/embed/toX4TJbgJLE)
 
 
-[![ALikesToCode's GitHub | Dependencies](https://stats.quine.sh/ALikesToCode/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ALikesToCode)
-
 
