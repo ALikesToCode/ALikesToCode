@@ -1,5 +1,5 @@
 
-#Hi I am Abhyudaya B Tharakan, 
+# Hi I am Abhyudaya B Tharakan, 
 
 Hello, I'm Abhyudaya B Tharakan, the CEO and Team Leader at Lyfline. I specialize in AI and Software Engineering. I'm particularly passionate about leveraging cutting-edge technologies to solve real-world problems, especially in the healthcare sector.
 
