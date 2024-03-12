@@ -35,5 +35,5 @@ More details can be found here.
 
 
 <a href="www.linkedin.com/in/abhyudaya-b-tharakan-909562283">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Abhyudaya | linkedin" />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Abhyudaya | linkedin" />
 </a>
