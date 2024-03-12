@@ -34,6 +34,6 @@ More details can be found here.
 [![Overview of Lyfline](https://img.youtube.com/vi/toX4TJbgJLE/0.jpg)](https://www.youtube.com/embed/toX4TJbgJLE)
 
 
-<a href="www.linkedin.com/in/abhyudaya-b-tharakan-909562283">
+<a href="https://www.linkedin.com/in/abhyudaya-b-tharakan-909562283/">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Abhyudaya | linkedin" />
 </a>
