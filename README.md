@@ -1,6 +1,7 @@
 # Abhyudaya B Tharakan - AI & Software Engineering Specialist
 
 👋 Hi, I’m **Abhyudaya B Tharakan**, an AI and Software Engineering specialist passionate about leveraging technology to solve real-world challenges. My expertise spans **healthcare**, **education technology**, **big data**, and **cutting-edge AI systems**. From advanced machine learning models to impactful AI solutions, I aim to make technology more accessible and effective.
+![AI Banner](https://img.shields.io/badge/AI%20Specialist-Machine%20Learning%20Expert-blue?style=for-the-badge&logo=tensorflow) ![Data Science](https://img.shields.io/badge/Data%20Scientist-Analytics%20Expert-green?style=for-the-badge&logo=python)
 
 ---
 
