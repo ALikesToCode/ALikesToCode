@@ -1,87 +1,200 @@
-# Abhyudaya B Tharakan - AI & Software Engineering Specialist
 
-👋 Hi, I’m **Abhyudaya B Tharakan**, an AI and Software Engineering specialist passionate about leveraging technology to solve real-world challenges. My expertise spans **healthcare**, **education technology**, **big data**, and **cutting-edge AI systems**. From advanced machine learning models to impactful AI solutions, I aim to make technology more accessible and effective.
+# Abhyudaya B Tharakan
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alovestocode)
+[![Website](https://img.shields.io/badge/Website-aloves.codes-blue?style=for-the-badge)](https://aloves.codes)
+[![GitHub](https://img.shields.io/badge/GitHub-ALikesToCode-lightgrey?style=for-the-badge&logo=github)](https://github.com/ALikesToCode)
+[![Email](https://img.shields.io/badge/Email-abhyudaya%40aloves.codes-red?style=for-the-badge)](mailto:abhyudaya@aloves.codes)
 ![AI Banner](https://img.shields.io/badge/AI%20Specialist-Machine%20Learning%20Expert-blue?style=for-the-badge&logo=tensorflow) ![Data Science](https://img.shields.io/badge/Data%20Scientist-Analytics%20Expert-green?style=for-the-badge&logo=python)
 
----
-
-## 🚀 About Me
-- **Current Role:** Data Scientist and Technology Specialist at The World Bank
-- **Location:** Bengaluru, Karnataka, India
-- **Focus Areas:** AI/ML, Data Science, Healthcare Technology, Education Technology
-- **Education:** IIT Madras (Specialization in AI, Machine Learning, and Data Science)
-- **Achievements:**
-  - Built AI tools impacting **700K+ students** and **66K+ teachers**
-  - Achieved **98% diagnostic accuracy** using Vision Transformers for cancer diagnosis
-  - Delivered AI-driven educational tools with **35% improvement** in outcomes
-  - Recognized among **Top 10 Best BDM Projects** at IIT Madras
+**Data Scientist & AI Specialist**  
+Bengaluru, Karnataka, India | +91 98935 50711  
 
 ---
 
-## 💡 Core Competencies
+## Profile Summary
 
-### Technical Skills
-#### Programming Languages:
-- Python, JavaScript, TypeScript, SQL, Java, Kotlin, Dart, R, C++, Julia, Go, Rust, Shell Scripting
-
-#### Frameworks & Tools:
-- **Web Development:** ReactJS, NestJS, FastAPI, Node.js, Django, Flask, Material-UI
-- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Transformers (BERT, GPT), OpenCV, Reinforcement Learning
-- **Big Data & Analytics:** Apache Spark, Airflow, Kafka, Hadoop, Flink, Dask
-- **Data Visualization:** Power BI, Tableau, D3.js, Matplotlib, Seaborn, Plotly
-- **Cloud Platforms:** AWS (SageMaker, Lambda, EC2), GCP, Azure
-- **DevOps/MLOps:** Docker, Kubernetes, CI/CD, Terraform, Kubeflow
+I am an **AI & Software Engineering Specialist** experienced in delivering **end-to-end ML solutions**, **big data analytics**, and **full-stack web development**. Passionate about **healthcare technology**, **education technology**, and building **scalable AI systems** that have impacted **700K+ students** and **66K+ teachers**.
 
 ---
 
-### Soft Skills
-- Leadership & Team Management
-- Communication & Stakeholder Engagement
-- Critical Thinking & Problem Solving
-- Adaptability & Creativity
-- Time Management & Prioritization
+## Technical Skills
+
+<details>
+<summary><strong>Programming Languages</strong></summary>
+
+- Python, JavaScript, TypeScript, SQL, Java, Kotlin, Dart, Scala, R, C++, Julia, Go, Rust, Shell Scripting
+
+</details>
+
+<details>
+<summary><strong>Web Development</strong></summary>
+
+- ReactJS, Material-UI, HTML, CSS, JavaScript (various frameworks), Redux, NestJS, FastAPI, Node.js, Django, Flask, Express.js, GraphQL, REST APIs, WebSockets
+
+</details>
+
+<details>
+<summary><strong>Data Visualization & BI</strong></summary>
+
+- Chart.js, D3.js, Matplotlib, Seaborn, Power BI, Tableau, Plotly, Bokeh, Altair, Streamlit, Dash, Grafana, Kibana
+
+</details>
+
+<details>
+<summary><strong>AI/ML Technologies</strong></summary>
+
+- TensorFlow, PyTorch, Scikit-learn, Keras  
+- Transformers (BERT, GPT), LSTM, CNNs, RNNs, XGBoost, LightGBM  
+- NLTK, spaCy, OpenCV, YOLO, SSD, OCR, Ray, MLflow, DVC, Weights & Biases, AutoML, Reinforcement Learning
+
+</details>
+
+<details>
+<summary><strong>ML Algorithms & Techniques</strong></summary>
+
+- Linear/Logistic Regression, SVM, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, k-NN, Naive Bayes  
+- PCA, t-SNE, ARIMA, Prophet, HMM, Isolation Forest, DBSCAN, Apriori, FP-Growth  
+- **Deep Learning**: CNNs (ResNet, DenseNet), RNNs (LSTM, GRU), Transformers (BERT, GPT, ViT), GANs (CycleGAN, StyleGAN), Autoencoders, Capsule Networks, Neural Turing Machines, Siamese Networks  
+- **Ensemble**: Stacking, Bagging, Boosting (AdaBoost, Gradient Boosting), Bayesian Optimization  
+- **Reinforcement Learning**: Q-Learning, DQN, PPO, A3C, SARSA, Thompson Sampling
+
+</details>
+
+<details>
+<summary><strong>Data Engineering & Analytics</strong></summary>
+
+- Pandas, NumPy, Apache Spark, Airflow, Hadoop, Kafka, Flink, PostgreSQL, SQL, MongoDB, Cassandra, Hive, Presto, Snowflake, Redshift, dbt, Delta Lake, Databricks, PySpark, Dask, Polars, Vaex
+
+</details>
+
+<details>
+<summary><strong>Cloud & Infrastructure</strong></summary>
+
+- AWS (SageMaker, Bedrock, EC2, S3, Lambda, EMR, Glue, Redshift), GCP (Vertex AI, BigQuery, Dataflow), Azure (Azure ML, Synapse)  
+- Docker, Kubernetes, Terraform, Helm, Prometheus, ELK Stack
+
+</details>
+
+<details>
+<summary><strong>MLOps & DevOps</strong></summary>
+
+- CI/CD, Git, GitHub Actions, Jenkins, Bitbucket, Agile Methodologies, Kubeflow, Argo CD  
+- Model Monitoring, Feature Stores, Model Serving, A/B Testing
+
+</details>
+
+<details>
+<summary><strong>Software Development Practices</strong></summary>
+
+- Software Architecture Design, OOP, Design Patterns, Microservices Architecture, API Design  
+- Testing (Unit, Integration), Documentation
+
+</details>
+
+<details>
+<summary><strong>Mathematics & Statistics</strong></summary>
+
+- Linear Algebra, Probability Theory, Information Theory, Statistics, Time Series Analysis, Optimization, Bayesian Methods, Causal Inference, Experimental Design
+
+</details>
+
+<details>
+<summary><strong>Other Skills</strong></summary>
+
+- Project Management, Consulting, Research & Development, AI Ethics, Data Privacy, Technical Writing, Team Leadership, Stakeholder Management
+
+</details>
 
 ---
 
-## 📂 Key Projects
+## Experience
 
-### Project Veritas: Intelligent Document Processing System
-- Automated OCR and NLP processes to digitize and evaluate lesson plans with **98% accuracy**.
-- Processed **50K+ documents daily** in distributed systems.
-- Reduced transcription time by **60%** through AI-powered automation.
+### Data Scientist & Technology Specialist  
+**The World Bank** | Oct 2023 – Present | Shimla, HP, India  
+- Managed an 8-member cross-functional team to build scalable apps with ReactJS, NestJS, and microservices.  
+- Processed 500GB+ data via Airflow/Spark for educational insights; improved OCR/NLP models by 60% efficiency.  
+- Automated CI/CD with Jenkins/GitHub Actions, cutting deployment time by 50%.  
+- Deployed AI tools (LLMs, RAG, LangChain) impacting over 700K students, 66K teachers.  
+- Achieved 40% cost savings with predictive analytics and statistical modeling.
 
-### Aurora: AI-Driven Cancer Diagnosis System
-- Led the development of a diagnostic AI system achieving **92% accuracy** in cancer subtype detection.
-- Enhanced decision-making via explainable AI (XAI) techniques and advanced reasoning.
+### Data Science & Technology Consultant  
+**Independent Consultant** | Oct 2023 – Present | Bengaluru, Karnataka, India  
+- Provided AI/ML consulting for service and education sectors, reducing client costs by 20%.  
+- Built full-stack apps (ReactJS, Material-UI, NestJS, FastAPI) with Agile methodologies.  
+- Established robust DevOps with Docker, Kubernetes, Terraform, and Jenkins; reduced production bugs by 90%.
 
-### Omni: Advanced Multimodal Language Model
-- Built a state-of-the-art transformer for multimodal tasks achieving **95% zero-shot accuracy**.
-- Reduced inference time by **60%** and improved performance by **25%** using efficient attention mechanisms.
+### Data Science & Technology Consultant  
+**Akkredit** | Oct 2021 – Oct 2023 | Bhilai, Chhattisgarh, India (Hybrid)  
+- Aligned technical solutions with client objectives; implemented AI-driven predictive analytics.  
+- Built scalable APIs and applications with CI/CD pipelines; advised clients on modern tech strategies.
 
-### Intelligent Learning Platform & Teacher Competency Enhancement
-- Developed AI tools for personalized teacher assessments, increasing participation by **45%**.
-- Scaled the platform to support **100K+ concurrent users** with high reliability.
+### AI Intern  
+**Steel Authority of India Limited** | Jan 2024 – Apr 2024 | Bhilai, Chhattisgarh, India  
+- Developed predictive maintenance with ARIMA/SARIMA, Isolation Forest, increasing equipment uptime by 20%.  
+- Deployed computer vision with OpenCV/CNNs for defect detection (+15% accuracy).  
+- Integrated GPT-4V for industrial record digitization; implemented real-time streaming with Kafka/Spark.
 
----
-
-## 🏆 Awards & Recognitions
-- **Top 10 Best BDM Project** at IIT Madras
-- **DPS Bhilai Best Programmer Award**
-- Achieved **10 CGPA** in Machine Learning Projects
-
----
-
-## 🌟 Vision
-I am committed to building AI systems that tackle complex challenges in healthcare, education, and beyond. By combining cutting-edge technology with user-focused design, I aim to create solutions that improve lives, drive efficiency, and empower individuals worldwide.
-
----
-
-## 📫 Let's Connect!
-- **Email:** [abhyudaya@aloves.codes](mailto:abhyudaya@aloves.codes)
-- **Website:** [aloves.codes](https://aloves.codes)
-- **LinkedIn:** [linkedin.com/in/alovestocode](https://www.linkedin.com/in/alovestocode)
-- **GitHub:** [github.com/ALikesToCode](https://github.com/ALikesToCode)
+### Research Intern  
+**IIT Bhilai** | Aug 2023 – Jan 2024 | Bhilai, Chhattisgarh, India  
+- Led Project Aurora, improving cancer diagnosis accuracy by 18%.  
+- Achieved 92% classification accuracy in cancer subtypes using advanced DL models.  
+- Innovated with contrastive reasoning and zero-shot learning; published findings in peer-reviewed journals.
 
 ---
 
-**"Transforming technology into solutions that make a difference."**
+## Selected Projects
+
+### HomeServe - Home Services Management System  
+- **Tech**: Flask, HTML/CSS/JS, Bootstrap, SQLite, Razorpay, Google Maps  
+- Built a platform connecting customers with service professionals; integrated secure payments and geolocation.
+
+### Intelligent Learning Platform & Teacher Competency Enhancement  
+- **Tech**: Python, TensorFlow, Graph Neural Networks, ReactJS, FastAPI, PostgreSQL  
+- Boosted teacher assessment participation by 45%; reduced training gaps by 30% using AI-driven recommendations.
+
+### Aurora: AI-Driven Cancer Diagnosis System  
+- **Tech**: Vision Transformers, PyTorch, CUDA, Distributed Training, XAI  
+- Achieved 98% diagnostic accuracy; integrated explainable AI for 95% interpretation accuracy.
+
+### Omni: Advanced Multimodal Language Model  
+- **Tech**: PyTorch, Transformers, CUDA, Zero-shot Learning  
+- Built SOTA multimodal transformer; 95% zero-shot accuracy, 60% inference time reduction.
+
+### Project Veritas: Intelligent Document Processing System  
+- **Tech**: OCR, NLP, TensorFlow, FastAPI, Distributed Systems  
+- Automated digitization with 98% accuracy; handled 50K+ documents daily in a distributed setup.
+
+---
+
+## Education
+
+- **Indian Institute of Technology Madras**  
+  Specialization: AI, Machine Learning, and Data Science
+
+- **Delhi Public School, Bhilai**  
+  Senior Secondary (Class XII), Computer Science Focus
+
+---
+
+## Awards & Honors
+
+- **Top 10 Best BDM Project (IIT Madras, 2024)**: Reduced project delivery time by 25%, improved team efficiency by 15%.  
+- **10 CGPA in Machine Learning Projects (2024)**: Recognized for innovative model development.  
+- **DPS Bhilai Best Programmer Award (2024)**: Wrote optimized postfix converter in 10 lines of code.
+
+---
+
+## Soft Skills
+
+- **Communication**: Teamwork, Active Listening, Feedback  
+- **Leadership**: Team Management, Decision-Making, Mentoring  
+- **Problem-Solving**: Critical Thinking, Analytical Skills, Collaboration  
+- **Creativity**: Innovation, Out-of-the-box Solutions  
+- **Adaptability**: Flexibility, Learning Agility  
+- **Work Ethic**: Persistence, Reliability, Responsibility  
+- **Time Management**: Prioritization, Efficiency, Meeting Deadlines  
+
+---
+
+> **"Transforming technology into solutions that make a difference."**  
