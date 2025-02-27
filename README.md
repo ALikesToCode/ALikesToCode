@@ -1,14 +1,29 @@
-
 # Abhyudaya B Tharakan
+<!-- Header badges -->
+<p align="center">
+  <!-- Contact icons -->
+  <a href="https://linkedin.com/in/alovestocode" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://aloves.codes" target="_blank">
+    <img src="https://img.shields.io/badge/Website-aloves.codes-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:abhyudaya@aloves.codes" target="_blank">
+    <img src="https://img.shields.io/badge/Email-abhyudaya@aloves.codes-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ALikesToCode" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ALikesToCode-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alovestocode)
-[![Website](https://img.shields.io/badge/Website-aloves.codes-blue?style=for-the-badge)](https://aloves.codes)
-[![GitHub](https://img.shields.io/badge/GitHub-ALikesToCode-lightgrey?style=for-the-badge&logo=github)](https://github.com/ALikesToCode)
-[![Email](https://img.shields.io/badge/Email-abhyudaya%40aloves.codes-red?style=for-the-badge)](mailto:abhyudaya@aloves.codes)
-![AI Banner](https://img.shields.io/badge/AI%20Specialist-Machine%20Learning%20Expert-blue?style=for-the-badge&logo=tensorflow) ![Data Science](https://img.shields.io/badge/Data%20Scientist-Analytics%20Expert-green?style=for-the-badge&logo=python)
+<!-- Expertise badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Specialist-Machine%20Learning%20Expert-blue?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Specialist Badge"/>
+  <img src="https://img.shields.io/badge/Data%20Scientist-Analytics%20Expert-green?style=for-the-badge&logo=python&logoColor=white" alt="Data Scientist Badge"/>
+  <img src="https://img.shields.io/badge/Software%20Engineer-Full%20Stack-purple?style=for-the-badge&logo=react&logoColor=white" alt="Software Engineer Badge"/>
+</p>
 
 **Data Scientist & AI Specialist**  
-Bengaluru, Karnataka, India | +91 98935 50711  
 
 ---
 
