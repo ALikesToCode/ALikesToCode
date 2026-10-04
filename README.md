@@ -28,7 +28,7 @@ I work at the intersection of **technology, public policy, education, and field 
 
 My focus is not technology in isolation. It is building systems that remain usable under real-world conditions—non-technical users, multilingual environments, limited connectivity, complex reporting hierarchies, and high-stakes institutional decisions.
 
-As AI tech lead, I lead the team that designs, builds, and rolls out these systems with state departments. The work began in Himachal Pradesh and is now expanding to Rajasthan, Uttarakhand, Chhattisgarh, and Madhya Pradesh.
+As AI tech lead, I lead the team that designs, builds, and rolls out these systems with state departments. The work began in Himachal Pradesh and is now expanding to multiple states.
 
 ### Impact at a glance
 
@@ -156,7 +156,7 @@ That end-to-end range is intentional. Large institutional programs do not move t
 ## Current focus
 
 - AI-enabled education transformation and teacher competency systems
-- Taking the Himachal Pradesh systems to Rajasthan, Uttarakhand, Chhattisgarh, and Madhya Pradesh
+- Taking the Himachal Pradesh systems to multiple states
 - Agentic AI systems: agent harnesses, tool use with approvals, memory, and evaluation
 - LLM infrastructure, RAG, document intelligence, and multimodal products
 - Government-scale dashboards, assessment platforms, and digital portfolios
