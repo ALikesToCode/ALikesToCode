@@ -1,21 +1,21 @@
 <h1 align="center">Abhyudaya B Tharakan</h1>
 
 <p align="center">
-  <strong>Applied AI Consultant · Product Systems Architect · GovTech & EdTech Transformation Lead</strong>
+  <strong>AI for Public Education · Agentic AI Systems · LLM Infrastructure</strong>
 </p>
 
 <p align="center">
-  I turn complex policy and institutional requirements into practical digital systems—combining technical strategy, product architecture, AI engineering, and implementation leadership.
+  I build AI and data systems for state education departments in India—from policy and final deliverables to production platforms used by thousands of teachers.
 </p>
 
 <p align="center">
-  <a href="https://aloves.codes">
-    <img src="https://img.shields.io/badge/Portfolio-aloves.codes-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
+  <a href="https://abhyu.in">
+    <img src="https://img.shields.io/badge/Portfolio-abhyu.in-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
   </a>
   <a href="https://linkedin.com/in/alovestocode">
     <img src="https://img.shields.io/badge/LinkedIn-alovestocode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
   </a>
-  <a href="mailto:abhyudaya@aloves.codes">
+  <a href="mailto:talksto@abhyu.in">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </p>
@@ -26,13 +26,13 @@
 
 I work at the intersection of **technology, public policy, education, and field implementation**. My role often begins before a product has a specification and continues after it reaches users: clarifying the problem, translating policy into workflows, designing the architecture, guiding delivery, and turning implementation data into decisions.
 
-My focus is not technology in isolation. It is building systems that remain usable under real-world conditions—non-technical users, multilingual environments, limited connectivity, complex reporting hierarchies, and high-stakes institutional decisions.
+My focus is not technology in isolation. It is building systems that remain usable under real-world conditions—non-technical users, multilingual environments, limited connectivity, complex reporting hierarchies, and high-stakes institutional decisions. I have delivered this work for Himachal Pradesh and other state education departments.
 
 ### Impact at a glance
 
-| 199 | 4,600+ | 4,700+ |
-|:---:|:---:|:---:|
-| PM SHRI schools supported through digital workflows | Teachers supported through assessment and competency systems | School heads supported through leadership and training workflows |
+| 21st → 2nd | 199 | 10,000 | 4,700+ |
+|:---:|:---:|:---:|:---:|
+| Himachal Pradesh's national rank in Grade 3, NAS 2021 → PARAKH 2024, while I built the state's data analysis and school-level reporting | PM SHRI schools supported through digital workflows | Government teachers supported through assessment and competency systems | School heads supported through leadership and training workflows |
 
 ---
 
@@ -47,6 +47,13 @@ I am most useful when a project needs someone who can move comfortably between s
 ---
 
 ## Selected system work
+
+### School-level analysis and reporting for PARAKH 2024 — Himachal Pradesh
+
+Regular data analysis and school-level reporting that guided timely academic interventions ahead of PARAKH Rashtriya Sarvekshan 2024, the national learning-outcomes survey.
+
+- Built the state's regular data analysis and school-level reports, and the intervention cycle they fed
+- Himachal Pradesh rose from 21st (NAS 2021) to 2nd nationally in Grade 3, and 3rd among states in Grades 6 and 9
 
 ### [SAARTHI — Teacher Competency Management System](https://saarthi.hp-projectprerna.com/)
 
@@ -85,13 +92,22 @@ A searchable repository of curriculum-linked, classroom-ready lesson plans, teac
 
 ---
 
-## Open-source engineering
+## Agentic AI and LLM systems
 
-| Project | What it addresses | Core technologies |
+| Project | What it does | Core technologies |
 |---|---|---|
-| **[MultiLLM Proxy](https://github.com/ALikesToCode/MultiLLM-Proxy)** | Multi-provider LLM gateway with authentication, routing, streaming, retries, rate limits, provider health checks, and operational dashboards | Python, APIs, LLM infrastructure |
-| **[image-and-video-studio](https://github.com/ALikesToCode/image-and-video-studio)** | AI media workspace integrating image and video providers into local-first product workflows | TypeScript, React, AI APIs |
-| **[LayerForge-X-final](https://github.com/ALikesToCode/LayerForge-X-final)** | Depth-aware, amodal layered decomposition of a single RGB image | Python, computer vision, machine learning |
+| **Omni** *(private)* | Personal agentic operating system: an agent harness with a multi-provider model router, tool use under approval policies, long-term memory, scheduled jobs, WhatsApp approvals, audit, and an eval harness | TypeScript, Cloudflare Workers, D1 |
+| **[MultiLLM Proxy](https://github.com/ALikesToCode/MultiLLM-Proxy)** | Self-hostable LLM gateway: one OpenAI- and Anthropic-compatible API in front of 20+ providers, with scoped keys, routing, streaming, retries, rate limits, and provider health checks | Python, Flask, Cloudflare Workers |
+| **[CounterLab](https://github.com/ALikesToCode/CounterLab)** | Belief debugger for ML evaluation mistakes: a learner locks a prediction, a controlled experiment runs, and a frozen verifier decides whether the evidence counts | TypeScript, Jupyter, Cloudflare Workers |
+| **[VeriLearn Exam Pack](https://github.com/ALikesToCode/VeriLearn-Exam-Pack-gemini-hackathon-ai-project)** | Turns YouTube lecture playlists into evidence-backed exam prep with Gemini: timestamped notes, question banks, mock exams, and mastery tracking | Next.js, Gemini API |
+| **[LayerForge-X](https://github.com/ALikesToCode/LayerForge-X-final)** | Depth-aware, amodal layered decomposition of a single RGB image into an editable layer graph | Python, computer vision, machine learning |
+| **[image-and-video-studio](https://github.com/ALikesToCode/image-and-video-studio)** | Local-first AI media studio for image, video, text-to-speech, and chat-assisted generation across providers | TypeScript, Next.js, AI APIs |
+
+## Open source
+
+| Project | What it does | Core technologies |
+|---|---|---|
+| **[Event Calendar for KDE Plasma 6](https://github.com/ALikesToCode/plasma-applet-eventcalendar)** ★98 | Maintained Plasma 6 fork of the Event Calendar widget: calendar, agenda, and weather with Google Calendar sync and iCalendar import | QML, Python, KDE Plasma |
 
 ---
 
@@ -110,7 +126,7 @@ A searchable repository of curriculum-linked, classroom-ready lesson plans, teac
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-- **AI systems:** LLM applications, RAG, OCR, document intelligence, multimodal AI, computer vision, and human-in-the-loop recommendations
+- **AI systems:** agentic workflows, tool use with approvals, multi-provider LLM routing, RAG, OCR, document intelligence, multimodal AI, computer vision, and human-in-the-loop recommendations
 - **Product engineering:** web platforms, mobile applications, APIs, assessment engines, dashboards, public portals, and role-based administrative systems
 - **Data and infrastructure:** PostgreSQL, SQLite, ETL workflows, analytics pipelines, CI/CD, serverless APIs, cloud deployment, and production monitoring
 - **Education systems:** NPST, PM SHRI, NIPUN Bharat, PARAKH/NAS-aligned improvement, teacher professional development, competency assessment, and school leadership enablement
@@ -138,6 +154,7 @@ That end-to-end range is intentional. Large institutional programs do not move t
 ## Current focus
 
 - AI-enabled education transformation and teacher competency systems
+- Agentic AI systems: agent harnesses, tool use with approvals, memory, and evaluation
 - LLM infrastructure, RAG, document intelligence, and multimodal products
 - Government-scale dashboards, assessment platforms, and digital portfolios
 - Mobile-first applications for field implementation
@@ -152,13 +169,13 @@ I am open to serious collaborations involving **applied AI, GovTech, EdTech, ins
 If your challenge needs both strategic clarity and hands-on technical execution, I would be glad to hear about it.
 
 <p align="center">
-  <a href="mailto:abhyudaya@aloves.codes">
-    <img src="https://img.shields.io/badge/Email-abhyudaya%40aloves.codes-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhyudaya" />
+  <a href="mailto:talksto@abhyu.in">
+    <img src="https://img.shields.io/badge/Email-talksto%40abhyu.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhyudaya" />
   </a>
   <a href="https://linkedin.com/in/alovestocode">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://aloves.codes">
+  <a href="https://abhyu.in">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="View my portfolio" />
   </a>
 </p>
