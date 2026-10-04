@@ -1,11 +1,11 @@
 <h1 align="center">Abhyudaya B Tharakan</h1>
 
 <p align="center">
-  <strong>AI for Public Education · Agentic AI Systems · LLM Infrastructure</strong>
+  <strong>AI Tech Lead · AI for Public Education · Agentic AI Systems · LLM Infrastructure</strong>
 </p>
 
 <p align="center">
-  I build AI and data systems for state education departments in India—from policy and final deliverables to production platforms used by thousands of teachers.
+  I build AI and data systems for state education departments in India—from policy and final deliverables to production platforms that reach tens of thousands of teachers.
 </p>
 
 <p align="center">
@@ -26,13 +26,15 @@
 
 I work at the intersection of **technology, public policy, education, and field implementation**. My role often begins before a product has a specification and continues after it reaches users: clarifying the problem, translating policy into workflows, designing the architecture, guiding delivery, and turning implementation data into decisions.
 
-My focus is not technology in isolation. It is building systems that remain usable under real-world conditions—non-technical users, multilingual environments, limited connectivity, complex reporting hierarchies, and high-stakes institutional decisions. I have delivered this work for Himachal Pradesh and other state education departments.
+My focus is not technology in isolation. It is building systems that remain usable under real-world conditions—non-technical users, multilingual environments, limited connectivity, complex reporting hierarchies, and high-stakes institutional decisions.
+
+As AI tech lead, I lead the team that designs, builds, and rolls out these systems with state departments. The work began in Himachal Pradesh and is now expanding to Rajasthan, Uttarakhand, Chhattisgarh, and Madhya Pradesh.
 
 ### Impact at a glance
 
-| 21st → 2nd | 199 | 10,000 | 4,700+ |
+| 21st → 2nd | 66,000 | 199 | 4,700+ |
 |:---:|:---:|:---:|:---:|
-| Himachal Pradesh's national rank in Grade 3, NAS 2021 → PARAKH 2024, while I built the state's data analysis and school-level reporting | PM SHRI schools supported through digital workflows | Government teachers supported through assessment and competency systems | School heads supported through leadership and training workflows |
+| Himachal Pradesh's national rank in Grade 3, NAS 2021 → PARAKH 2024, while I built the state's data analysis and school-level reporting | Government teachers reached through state assessment, training, and reporting systems | PM SHRI schools supported through digital workflows | School heads supported through leadership and training workflows |
 
 ---
 
@@ -154,6 +156,7 @@ That end-to-end range is intentional. Large institutional programs do not move t
 ## Current focus
 
 - AI-enabled education transformation and teacher competency systems
+- Taking the Himachal Pradesh systems to Rajasthan, Uttarakhand, Chhattisgarh, and Madhya Pradesh
 - Agentic AI systems: agent harnesses, tool use with approvals, memory, and evaluation
 - LLM infrastructure, RAG, document intelligence, and multimodal products
 - Government-scale dashboards, assessment platforms, and digital portfolios
